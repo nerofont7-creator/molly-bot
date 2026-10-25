@@ -1,0 +1,1 @@
+worker: Python shop.py
